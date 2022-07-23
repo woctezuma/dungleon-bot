@@ -11,6 +11,14 @@ This repository contains Python code to find the best starter guesses for Dungle
 As official emojis:
 :bow_and_arrow: :bat: :moneybag: :yellow_circle: :dragon_face: :frog: :japanese_goblin: :crown: 🧙‍♀️ :imp: :japanese_ogre: :skull: :spider: :bust_in_silhouette: 🤡 :trophy: :man_farmer: :person_fencing: 🧙‍♂️ :zombie:
 
+## Algorithms
+
+I have collected a few open-source algorithms:
+- `Simple` maximizes the number of points attributed guess feedbacks: 🟧 (2 points), 🟦 (1 point), ⬛ (0 point).
+- `Complex` minimizes the cardinality of the set of remaining possible solutions after each guess.
+- `MinMax` optimizes for the "worst case" scenario.
+- `MaxEntropy` maximizes the entropy of the set of patterns.
+
 ## Results
 
 ### Constrained
