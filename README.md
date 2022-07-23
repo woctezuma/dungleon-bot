@@ -23,6 +23,9 @@ For each algorithm, there are two versions:
 - constrained: guesses are constrained to the set of **valid** solutions.
 - unconstrained: the set of guesses is 5-6 times larger, as **invalid** solutions are allowed.
 
+**Caveat**: the `Complex` algorithm is very slow!
+Avoid using it if possible, because the results are not much different to other algorithms anyway.
+
 ## Results
 
 ### Constrained
