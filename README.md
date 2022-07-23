@@ -14,7 +14,7 @@ As official emojis:
 ## Algorithms
 
 I have collected a few open-source algorithms:
-- `Simple` maximizes the number of points attributed guess feedbacks: 🟧 (2 points), 🟦 (1 point), ⬛ (0 point).
+- `Simple` maximizes the number of points attributed to guess feedbacks: 🟧 (2 points), 🟦 (1 point), ⬛ (0 point).
 - `Complex` minimizes the cardinality of the set of remaining possible solutions after each guess.
 - `MinMax` optimizes for the "worst case" scenario.
 - `MaxEntropy` maximizes the entropy of the set of patterns.
