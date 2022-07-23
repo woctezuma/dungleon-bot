@@ -26,6 +26,11 @@ For each algorithm, there are two versions:
 **Caveat**: the `Complex` algorithm is very slow!
 Avoid using it if possible, because the results are not much different to other algorithms anyway.
 
+## Usage
+
+-   Run [`dungleon-bot.ipynb`][colab-notebook]
+[![Open In Colab][colab-badge]][colab-notebook]
+
 ## Results
 
 ### Constrained
@@ -85,3 +90,5 @@ This additional piece of information could be taken into account by the Dungleon
 [results-unconstrained-complex]: <https://github.com/woctezuma/dungleon-bot/wiki/img/results/unconstrained/cpp_complex.png>
 [results-unconstrained-minmax]: <https://github.com/woctezuma/dungleon-bot/wiki/img/results/unconstrained/cpp_minmax.png>
 [results-unconstrained-maxent]: <https://github.com/woctezuma/dungleon-bot/wiki/img/results/unconstrained/python_maxent.png>
+[colab-notebook]: <https://colab.research.google.com/github/woctezuma/dungleon-bot/blob/colab/dungleon-bot.ipynb>
+[colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
