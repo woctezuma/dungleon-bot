@@ -47,10 +47,13 @@ For each algorithm, there are two versions:
 - `MaxEntropy`
 ![MaxEnt][results-unconstrained-maxent]
 
-## Perspective
+## Perspectives
 
 As in Wordle, Dungleon features a hard mode ![Crystal][img-crystal], where "any revealed hints must be used in subsequent guesses".
 Future development of the Dungleon Bot could take into account this additional difficulty.
+
+In Dungleon, guess feedbacks mention if a character appears several times with a `+` in the top right corner of the character tile.
+This additional piece of information could be taken into account by the Dungleon Bot.
 
 ## References
 
