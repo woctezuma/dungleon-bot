@@ -1,8 +1,8 @@
 # Data
 
 Data consists in:
-- `dungleon_solutions.txt`: the exhaustive list of 3268 solutions,
-- `dungleon_guesses.txt`: a list of 17080 potential guesses, not necessarily valid.
+- `dungleon_guesses.txt`: a list of 17080 potential guesses, not necessarily valid,
+- `dungleon_solutions.txt`: the exhaustive list of 3268 solutions.
 
 ## Credits
 
