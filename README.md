@@ -64,8 +64,8 @@ I have collected a few open-source algorithms:
 [results-constrained-simple]: <https://github.com/woctezuma/dungleon-bot/wiki/img/results/constrained/cpp_simple.png>
 [results-constrained-complex]: <https://github.com/woctezuma/dungleon-bot/wiki/img/results/constrained/cpp_complex.png>
 [results-constrained-minmax]: <https://github.com/woctezuma/dungleon-bot/wiki/img/results/constrained/cpp_minmax.png>
-[results-constrained-maxent]: <https://github.com/woctezuma/dungleon-bot/wiki/img/results/constrained/cpp_maxent.png>
+[results-constrained-maxent]: <https://github.com/woctezuma/dungleon-bot/wiki/img/results/constrained/python_maxent.png>
 [results-unconstrained-simple]: <https://github.com/woctezuma/dungleon-bot/wiki/img/results/unconstrained/cpp_simple.png>
 [results-unconstrained-complex]: <https://github.com/woctezuma/dungleon-bot/wiki/img/results/unconstrained/cpp_complex.png>
 [results-unconstrained-minmax]: <https://github.com/woctezuma/dungleon-bot/wiki/img/results/unconstrained/cpp_minmax.png>
-[results-unconstrained-maxent]: <https://github.com/woctezuma/dungleon-bot/wiki/img/results/unconstrained/cpp_maxent.png>
+[results-unconstrained-maxent]: <https://github.com/woctezuma/dungleon-bot/wiki/img/results/unconstrained/python_maxent.png>
