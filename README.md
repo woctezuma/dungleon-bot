@@ -19,6 +19,10 @@ I have collected a few open-source algorithms:
 - `MinMax` optimizes for the "worst case" scenario.
 - `MaxEntropy` maximizes the entropy of the set of patterns.
 
+For each algorithm, there are two versions:
+- constrained: guesses are constrained to the set of **valid** solutions.
+- unconstrained: the set of guesses is 5-6 times larger, as **invalid** solutions are allowed.
+
 ## Results
 
 ### Constrained
