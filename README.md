@@ -47,6 +47,11 @@ For each algorithm, there are two versions:
 - `MaxEntropy`
 ![MaxEnt][results-unconstrained-maxent]
 
+## Perspective
+
+As in Wordle, Dungleon features a hard mode ![Crystal][img-crystal], where "any revealed hints must be used in subsequent guesses".
+Future development of the Dungleon Bot could take into account this additional difficulty.
+
 ## References
 
 - The [official website][game]
@@ -59,6 +64,7 @@ For each algorithm, there are two versions:
 [game]: <https://www.dungleon.com/>
 [img-cover]: <https://github.com/woctezuma/dungleon-bot/wiki/img/cover.png>
 [img-sprites]: <https://github.com/woctezuma/dungleon-bot/wiki/img/sprites/big.png>
+[img-crystal]: <https://github.com/woctezuma/dungleon-bot/wiki/img/sprites/crystal.png>
 [img-sprites-original]: <https://www.dungleon.com/images/elements/big/sprites.png>
 [dungleon-rules]: <https://github.com/woctezuma/dungleon>
 [wordle-game]: <https://www.nytimes.com/games/wordle>
