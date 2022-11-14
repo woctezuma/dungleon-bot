@@ -1,8 +1,9 @@
+> **Note**
+> I recommend to use the code at [`woctezuma/3b1b-wordle-solver`][wordle-3b1b-solver], which is much faster!
+
 # Dungleon Bot
 
 This repository contains Python code to find the best starter guesses for Dungleon.
-
-> **Disclaimer**: I recommend to use the code at [`woctezuma/3b1b-wordle-solver`][wordle-3b1b-solver], which is much faster!
 
 [![Dungleon][img-cover]][game]
 
