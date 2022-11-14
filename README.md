@@ -2,6 +2,8 @@
 
 This repository contains Python code to find the best starter guesses for Dungleon.
 
+> **Disclaimer**: I recommend to use the code at [`woctezuma/3b1b-wordle-solver`][wordle-3b1b-solver], which is much faster!
+
 [![Dungleon][img-cover]][game]
 
 ## Characters
@@ -84,6 +86,7 @@ This additional piece of information could be taken into account by the Dungleon
 [wordle-bot-cpp]: <https://github.com/TylerGlaiel/wordlebot>
 [wordle-bot-python]: <https://github.com/GillesVandewiele/Wordle-Bot>
 [wordle-bot-python-fork]: <https://github.com/woctezuma/Wordle-Bot>
+[wordle-3b1b-solver]: <https://github.com/woctezuma/3b1b-wordle-solver>
 [results-constrained-simple]: <https://github.com/woctezuma/dungleon-bot/wiki/img/results/constrained/cpp_simple.png>
 [results-constrained-complex]: <https://github.com/woctezuma/dungleon-bot/wiki/img/results/constrained/cpp_complex.png>
 [results-constrained-minmax]: <https://github.com/woctezuma/dungleon-bot/wiki/img/results/constrained/cpp_minmax.png>
