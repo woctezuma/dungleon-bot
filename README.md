@@ -71,6 +71,7 @@ This additional piece of information could be taken into account by the Dungleon
   - Tyler Glaiel, [The mathematically optimal first guess in Wordle][wordle-bot-cpp-blog-post], December 2021
   - [`TylerGlaiel/wordlebot`][wordle-bot-cpp] (`Simple`, `Complex`, `MinMax` in C++)
   - [`GillesVandewiele/Wordle-Bot`][wordle-bot-python] (`MaxEntropy` in Python)
+  - [`woctezuma/Wordle-Bot`][wordle-bot-python-fork]: my (slow) fork.
 
 [game]: <https://www.dungleon.com/>
 [img-cover]: <https://github.com/woctezuma/dungleon-bot/wiki/img/cover.png>
@@ -82,6 +83,7 @@ This additional piece of information could be taken into account by the Dungleon
 [wordle-bot-cpp-blog-post]: <https://medium.com/@tglaiel/the-mathematically-optimal-first-guess-in-wordle-cbcb03c19b0a>
 [wordle-bot-cpp]: <https://github.com/TylerGlaiel/wordlebot>
 [wordle-bot-python]: <https://github.com/GillesVandewiele/Wordle-Bot>
+[wordle-bot-python-fork]: <https://github.com/woctezuma/Wordle-Bot>
 [results-constrained-simple]: <https://github.com/woctezuma/dungleon-bot/wiki/img/results/constrained/cpp_simple.png>
 [results-constrained-complex]: <https://github.com/woctezuma/dungleon-bot/wiki/img/results/constrained/cpp_complex.png>
 [results-constrained-minmax]: <https://github.com/woctezuma/dungleon-bot/wiki/img/results/constrained/cpp_minmax.png>
