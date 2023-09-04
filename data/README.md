@@ -6,8 +6,8 @@ Data consists in:
 - `dungleon_solutions.txt`: the exhaustive list of 3268 solutions.
 
 > **Note**
-> The seen solutions do not include:
-> - the anniversaire dungeon (with the cake character `:ca:`),
+> \* The seen solutions do not include:
+> - the anniversary dungeon with the cake character `:ca:`,
 > - the 6 dungeons of length 6.
 
 ## Credits
