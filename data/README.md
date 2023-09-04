@@ -2,7 +2,13 @@
 
 Data consists in:
 - `dungleon_guesses.txt`: a list of 20258 potential guesses, not necessarily valid,
+- `dungleon_solutions.seen.txt`: a list of 395 solutions, seen* up to Dungleon n°576 (included) on September 4, 2023,
 - `dungleon_solutions.txt`: the exhaustive list of 3268 solutions.
+
+> **Note**
+> The seen solutions do not include:
+> - the anniversaire dungeon (with the cake character `:ca:`),
+> - the 6 dungeons of length 6.
 
 ## Credits
 
